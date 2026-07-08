@@ -28,11 +28,6 @@ frequency, sleep quality, and stress level, then using those signals to forecast
 | Churn model | Logistic regression, AUC ≈ 0.72 |
 | Conversion model | Logistic regression on trial users, wellbeing signals predictive |
 
-### Correlation Structure
-![Correlation Heatmap](images/correlation_heatmap.png)
-
-### Churn Model Performance
-![ROC Curve](images/churn_roc_curve.png)
 
 ## Methodology
 
